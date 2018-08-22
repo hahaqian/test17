@@ -19,5 +19,7 @@ def use_cluster():
     # 3.获取值
     print(cluster.get("name"))
 
+    # ceshi
+
 if __name__ == '__main__':
     use_cluster()
